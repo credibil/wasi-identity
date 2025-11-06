@@ -1,1 +1,1 @@
-# wasi-identity
+# WASI OpenTelemetry
